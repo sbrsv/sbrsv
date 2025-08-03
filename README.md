@@ -2,7 +2,7 @@
 
 ---
 
-## 🧠 ai-embed-search
+## 🔍 ai-embed-search
 
 [![npm](https://img.shields.io/npm/v/ai-embed-search?label=npm%20version)](https://www.npmjs.com/package/ai-embed-search)
 [![npm](https://img.shields.io/npm/dw/ai-embed-search?label=downloads)](https://www.npmjs.com/package/ai-embed-search)
