@@ -5,7 +5,6 @@
 ## 🔍 ai-embed-search
 
 [![npm](https://img.shields.io/npm/v/ai-embed-search?label=npm%20version)](https://www.npmjs.com/package/ai-embed-search)
-[![npm](https://img.shields.io/npm/dw/ai-embed-search?label=downloads)](https://www.npmjs.com/package/ai-embed-search)
 [![GitHub Stars](https://img.shields.io/github/stars/sbrsv/ai-embed-search?style=social)](https://github.com/sbrsv/ai-embed-search)
 
 My latest project: [ai-embed-search](https://github.com/sbrsv/ai-embed-search) — a lightweight, local-first AI semantic search engine.  
