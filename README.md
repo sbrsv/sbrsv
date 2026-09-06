@@ -1,4 +1,4 @@
-# Hi, I'm Peter 👋
+# Hi, I'm Petr 👋
 
 Building products people actually use — mobile apps, AI tools, and open source.
 
