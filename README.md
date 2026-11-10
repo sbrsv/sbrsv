@@ -8,7 +8,7 @@ Building products people actually use — mobile apps, AI tools, and open source
 
 [![Website](https://img.shields.io/badge/vocallab.ai-visit-6C47FF)](https://vocallab.ai)
 
-**25k+ users · $400k+ revenue in 2026**
+**30k+ users · $400k+ revenue in 2026**
 
 [VocalLab](https://vocallab.ai) — AI voice platform for text-to-speech, voice cloning, dubbing, and audiobook production.
 
