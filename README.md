@@ -4,13 +4,13 @@ Building products people actually use — mobile apps, AI tools, and open source
 
 ---
 
-## 🎙️ VocalLab
+## 🎙️ VocalLab AI
 
 [![Website](https://img.shields.io/badge/vocallab.ai-visit-6C47FF)](https://vocallab.ai)
 
 **30k+ users**
 
-[VocalLab](https://vocallab.ai) — AI voice platform for text-to-speech, voice cloning, dubbing, and audiobook production.
+[VocalLab AI](https://vocallab.ai) — AI voice platform for text-to-speech, voice cloning, dubbing, and audiobook production.
 
 ---
 
